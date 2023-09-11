@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733953602039",
+    "project_id": "fluxchatoai",
+    "storage_bucket": "fluxchatoai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733953602039:android:1882b166556822232dbef2",
+        "android_client_info": {
+          "package_name": "com.kodfluxchatoai.fluxchatoai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733953602039-ep98qdhct4fpd76sgdas7m2apq0csh41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPg0efcBFmB4XygOCNEP4lojxKqqE7-RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733953602039-ep98qdhct4fpd76sgdas7m2apq0csh41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
